@@ -1,5 +1,5 @@
 # 准备源代码
-假设基本的[准备工作](/miwifi-zhun-bei-gong-zuo/)在此前已经完成.
+假设基本的[准备工作](/miwifi-readme/)在此前已经完成.
 
     mkdir ~/work/src/node/
     cd ~/work/src/node/
@@ -17,7 +17,7 @@
 
     #!/bin/bash
     name=`whoami`
-    export TOOLCHAIN=/home/$name/sdk_package/toolchain/
+    export TOOLCHAIN=/home/$name/work/sdk_package/toolchain/
     export PATH=$TOOLCHAIN/bin:$PATH
     export AR=$TOOLCHAIN/bin/arm-xiaomi-linux-uclibcgnueabi-ar
     export CC=$TOOLCHAIN/bin/arm-xiaomi-linux-uclibcgnueabi-gcc

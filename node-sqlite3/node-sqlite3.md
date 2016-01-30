@@ -2,7 +2,7 @@ node-sqlite3是node访问sqlite3的接口.
 
 # 准备
 
-需要预先编译好的[sqlite3](/miwifi-bian-yi-sqlite3/).
+需要预先编译好的[sqlite3](/miwifi-readme/).
 另外还需要安装python2, 我相信大部分ubuntu都是自带的了.
 
     # 在开发机上安装node, 较早的node不是nodejs, 而是另一个程序
