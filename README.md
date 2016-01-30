@@ -15,7 +15,7 @@
 
     mkdir -p ~/work/src/
 
-    #下载硬盘版路由器toolchain(官网http://www1.miwifi.com/miwifi_open.html)
+    # 下载硬盘版路由器toolchain(官网http://www1.miwifi.com/miwifi_open.html)
     cd ~/work/
     wget http://bigota.miwifi.com/xiaoqiang/sdk/tools/package/sdk_package.zip
     zip sdk_package.zip
