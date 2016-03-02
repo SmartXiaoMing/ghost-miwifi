@@ -99,3 +99,6 @@
 我还做了个人blog, 域名很山寨, 而且随时有可能访问不通..
 
     http://smartxiaoming.eicp.net:2368/
+---
+## 最新更新
+我将另开一个git repo, 来做小米路由器的源, 这个仓库只作为ghost blog安装教程好了.
